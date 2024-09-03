@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Welcome to my website</h1>
+<h1>Welcome to my awesome website</h1>
 Total hits : <%= application.getAttribute("hitCounter") %>
 </body>
 </html>
